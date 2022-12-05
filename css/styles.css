@@ -1,0 +1,30 @@
+/* Dine styles her */
+form {
+  padding: 2rem;
+  background: #f7f4f0;
+  border-radius: 8px;
+}
+
+label,
+input,
+textarea,
+select,
+button {
+  display: block;
+}
+
+form,
+.form-felt {
+  display: grid;
+  gap: 1rem;
+}
+
+.form-felt {
+  display: grid;
+  gap: 3px;
+}
+
+textarea {
+  height: auto;
+  width: 100%;
+}
